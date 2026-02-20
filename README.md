@@ -16,12 +16,12 @@ On first run it creates the log file and records the design capacity as a baseli
 ## Example Log Output
 
 ```
-DESIGN CAPACITY:     62290 mWh
+DESIGN CAPACITY:        62290 mWh
 
 FULL CHARGE CAPACITY:
-            61850 mWh  01-01-2025  99.29%
-            60100 mWh  15-06-2025  96.48%
-            58340 mWh  20-02-2026  93.66%
+                        61850 mWh  01-01-2025  99.29%
+                        60100 mWh  15-06-2025  96.48%
+                        58340 mWh  20-02-2026  93.66%
 ```
 
 ## Requirements
